@@ -1,0 +1,14 @@
+{
+    "id": "{522813E7-517E-E9C7-953F-D8090DA6E523}",
+    "name": "Bose Durchsage",
+    "type": 3,
+    "vendor": "Bose",
+    "aliases": [
+        "Bose Durchsage"
+    ],
+    "url": "https://github.com/ubittner/Durchsage/tree/main/Bose",
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "BDS"
+}
